@@ -7,6 +7,7 @@
       </button>
     </div>
   </div>
+  <p>Click a contact to modify it.</p>
   <div class="d-flex justify-content-center">
     <div>
       <div class="d-flex searchWrap align-items-center p-0 m-auto">
